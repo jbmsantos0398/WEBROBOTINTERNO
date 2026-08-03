@@ -1,0 +1,13 @@
+﻿<!--------------------  _blank --- _self  ---------------------->
+<p><li><a href="
+LINK🔴
+" target="_blank">
+NOME🔴
+  <i class="fa fa-external-link" style="font-size;color:red"></i></a></li></p>
+<!-------------------------------------------------------------->
+<p><li><a href="
+LINK🔴
+" target="_blank">
+NOME🔴
+  <i class="fa fa-external-link" style="font-size;color:red"></i></a></li></p>
+<!-------------------------------------------------------------->
